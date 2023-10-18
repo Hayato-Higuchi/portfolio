@@ -1,7 +1,7 @@
 <img id="thumbnail" src="./resources/template/thumbnail.png" width="256px" />
 
 # 樋口 颯人（Higuchi Hayato）
-九州大学大学院理学府地球惑星科学専攻博士課程の大学院生です。量子コンピュータを使ってオーロラシミュレーションを作るアプリケーション開発をしています。趣味は競技かるたです。
+九州大学大学院理学府地球惑星科学専攻博士課程の大学院生です。量子コンピュータを使ってオーロラシミュレーションを作るアプリケーション開発をしています。趣味は競技かるたとダイエットです。
 
 ***
 
@@ -12,20 +12,32 @@
 `Qiskit`
 
 ## Environments
-`Visual Studio Code` `Vim` `Emacs` `Unity`
+`Visual Studio Code` `Emacs`
 
 ## Other Skills
-`Illustrator` `Photoshop` `After Effects` `Blender` `Fusion 360` `EAGLE`
+`美味しいお店探し` `競技かるたA級4段`
 
 ## Qualifications
 `博士（理学）取得予定` `普通自動車第一種運転免許`
 
 ## Research and Job Experience
+### *2017.4 - 2021.2*
+**ホテルフロントスタッフ**
+> - *アルバイト*
+> - 夜間フロント責任者に昇格
+> - 接客のノウハウを学んだ
+
 ### *2020.4 - 2022.3*
 **Poleward Boundary Intensificationを再現するためのオーロラ電子加速シミュレーション開発**
 > - *修士課程研究*
 > - Juliaを用いた電磁プラズマ流体方程式と衝突性Hall MHDのハイブリッド数値計算モデル開発
 > - オーロラ粒子として十分な粒子加速を得た
+
+### *2021.1 - 2022.1*
+**ECサイト制作**
+> - *アルバイト*
+> - Shopifyを使ったECサイト構築及び運用
+> - ２件の企業サイトを受託
 
 ### *2021.6 ~*
 **量子誤り耐性量子コンピュータを用いた太陽-地球間の大規模宇宙プラズマ環境予測シミュレータの開発**
@@ -48,6 +60,10 @@
 > 九州大学大学院　理学府　地球惑星科学専攻　博士課程
 
 ## Distributions
+### 作成ECサイト例
+> - クライアント：八重岳ベーカリー
+> - Link: [作成ECサイト例](https://yaedake.com)
+
 ### 無衝突Boltzmann-Maxwell方程式の量子計算アルゴリズムコード
 <img src="./resources/template/application.png" width="64px">
 > - Short explain (what is this?)
