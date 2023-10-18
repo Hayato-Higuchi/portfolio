@@ -65,9 +65,8 @@
 > - Link: [作成ECサイト例](https://yaedake.com)
 
 ### 無衝突Boltzmann-Maxwell方程式の量子計算アルゴリズムコード
-<img src="./resources/template/application.png" width="64px">
-> - Short explain (what is this?)
-> - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
+> - 下記論文の量子回路構築プログラムコード
+> - Link: [プログラムコード]()
 
 ## Publications
 ### Quantum Calculation of Classical Kinetic Equations: A Novel Approach for Numerical Analysis of 6D Boltzmann-Maxwell Equations in Collisionless Plasmas Using Quantum Computing
