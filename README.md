@@ -1,4 +1,4 @@
-<img id="thumbnail" src="./resources/thumbnail.png" width="256px" />
+<img id="thumbnail" src="./resources/IMG_2032_Original.JPG" width="256px" />
 
 # 樋口 颯人（Higuchi Hayato）
 九州大学大学院理学府地球惑星科学専攻博士課程の大学院生です。量子コンピュータを使ってオーロラシミュレーションを作るアプリケーション開発をしています。趣味は競技かるたとダイエットです。
