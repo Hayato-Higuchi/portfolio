@@ -92,19 +92,19 @@
 > - PDF: [paper.pdf](https://arxiv.org/pdf/2306.05967.pdf)
 
 ### 国際学会・シンポジウム等における発表(査読なし)
->	Higuchi, H, and A. Yoshikawa, Electron acceleration mechanism in "ionospheric polarized Poleward Boundary Intensification": A new validation with 3-dimensional fluid electron acceleration simulators, American Geophysics Union Fall Meeting 2021, 2021.12.13, ポスター
-> Higuchi, H. and J. W. Pedersen, A. Yoshikawa, Quantum numerical computation of the classical kinetic equation by quantum computer: new method for the Boltzmann equation in 6D collisionless plasma, American Geophysics Union Fall Meeting 2021, 2023.8.25, Oral
+> -	Higuchi, H, and A. Yoshikawa, Electron acceleration mechanism in "ionospheric polarized Poleward Boundary Intensification": A new validation with 3-dimensional fluid electron acceleration simulators, American Geophysics Union Fall Meeting 2021, 2021.12.13, ポスター
+> - Higuchi, H. and J. W. Pedersen, A. Yoshikawa, Quantum numerical computation of the classical kinetic equation by quantum computer: new method for the Boltzmann equation in 6D collisionless plasma, American Geophysics Union Fall Meeting 2021, 2023.8.25, Oral
 ### 国内学会・シンポジウム等における発表(査読なし)
-> 樋口颯人, 電離層分極型PBIにおける3次元運動論的電子加速シミュレーションと新加速モデルの構築に向けて, 宇宙地球惑星科学若手会夏の学校2020, 2020.9.3, 口頭
-> Higuchi, H. and A. Yoshikawa, Exploring the Electron Acceleration Mechanism in the Poleward Boundary Intensification, 日本地球惑星科学連合2021年大会, 2021.６.6, 英語口頭
-> 樋口颯人, Electron acceleration mechanism in ionospheric polarized PBI: A new solution developedfrom 3D fluid electron acceleration simulatiors,宇宙地球惑星科学若手会夏の学校2021, 2021.9.9,口頭
-> 樋口颯人, 吉川顕正, Poleward Boundary Intensificationにおける電子加速メカニズムを再現する3次元流体シミュレータの開発, 「STE現象報告会」「MTI研究集会」「宇宙空間からの地球超高層大気観測に関する研究会」「太陽地球系物理学分野のデータ解析手法、ツールの理解と応用研究集会」合同研究集会, 2021.9.30, 口頭
-> 樋口颯人, 吉川顕正, 電離圏分極型PBIにおける電子加速メカニズム：3次元流体的電子加速シミュレータから得られる新機構, 第150回地球電磁気・地球惑星圏学会総会・講演会, 2021.11.3, 口頭
-> Higuchi, H. and A. Yoshikawa, Physics of Magnetosphere-Ionosphere Coupling System from the Collisional Three-Fluid Model, 日本地球惑星科学連合2022年大会, 2022.5.25, ポスター
-> 樋口颯人, 吉川顕正, Quantum Algorithm for Clarifying Auroral Acceleration Mechanism by Collisional Boltzmann-Maxwell Equation, 宇宙地球惑星科学若手会夏の学校2022, 2022.9.8, 口頭
-> 樋口颯人, J. W. Pedersen, 吉川顕正, Development of Quantum Algorithm for Clarifying Auroral Electron Acceleration Mechanism by Collisional Boltzmann-Maxwell Equation, 第151回地球電磁気・地球惑星圏学会総会・講演会, 2022.11.5, 口頭
-> 樋口颯人, J. W. Pedersen, 吉川顕正, 量子コンピュータによる古典運動論的方程式の量子数値計算：6次元無衝突プラズマのBoltzmann-Maxwell方程式の新計算手法, STEシミュレーション研究会・KDKシンポジウム合同研究会, 2023.3.8, 口頭
-> Higuchi, H., J. W. Pedersen, A. Yoshikawa, 量子コンピュータによる古典的運動論的方程式の量子数値計算：6次元無衝突プラズマのBoltzmann方程式の新手法, 日本地球惑星科学連合2023年大会, 2023.5.22, 口頭
-> 樋口颯人, J. W. Pedersen, 吉川顕正, Self-Consistent Quantum Calculations of the 6D Boltzmann-Maxwell System in Collisionless Plasmas Using Quantum Computer, 第152回地球電磁気・地球惑星圏学会総会・講演会, 2023.9.25, 口頭
+> - 樋口颯人, 電離層分極型PBIにおける3次元運動論的電子加速シミュレーションと新加速モデルの構築に向けて, 宇宙地球惑星科学若手会夏の学校2020, 2020.9.3, 口頭
+> - Higuchi, H. and A. Yoshikawa, Exploring the Electron Acceleration Mechanism in the Poleward Boundary Intensification, 日本地球惑星科学連合2021年大会, 2021.６.6, 英語口頭
+> - 樋口颯人, Electron acceleration mechanism in ionospheric polarized PBI: A new solution developedfrom 3D fluid electron acceleration simulatiors,宇宙地球惑星科学若手会夏の学校2021, 2021.9.9,口頭
+> - 樋口颯人, 吉川顕正, Poleward Boundary Intensificationにおける電子加速メカニズムを再現する3次元流体シミュレータの開発, 「STE現象報告会」「MTI研究集会」「宇宙空間からの地球超高層大気観測に関する研究会」「太陽地球系物理学分野のデータ解析手法、ツールの理解と応用研究集会」合同研究集会, 2021.9.30, 口頭
+> - 樋口颯人, 吉川顕正, 電離圏分極型PBIにおける電子加速メカニズム：3次元流体的電子加速シミュレータから得られる新機構, 第150回地球電磁気・地球惑星圏学会総会・講演会, 2021.11.3, 口頭
+> - Higuchi, H. and A. Yoshikawa, Physics of Magnetosphere-Ionosphere Coupling System from the Collisional Three-Fluid Model, 日本地球惑星科学連合2022年大会, 2022.5.25, ポスター
+> - 樋口颯人, 吉川顕正, Quantum Algorithm for Clarifying Auroral Acceleration Mechanism by Collisional Boltzmann-Maxwell Equation, 宇宙地球惑星科学若手会夏の学校2022, 2022.9.8, 口頭
+> - 樋口颯人, J. W. Pedersen, 吉川顕正, Development of Quantum Algorithm for Clarifying Auroral Electron Acceleration Mechanism by Collisional Boltzmann-Maxwell Equation, 第151回地球電磁気・地球惑星圏学会総会・講演会, 2022.11.5, 口頭
+> - 樋口颯人, J. W. Pedersen, 吉川顕正, 量子コンピュータによる古典運動論的方程式の量子数値計算：6次元無衝突プラズマのBoltzmann-Maxwell方程式の新計算手法, STEシミュレーション研究会・KDKシンポジウム合同研究会, 2023.3.8, 口頭
+> - Higuchi, H., J. W. Pedersen, A. Yoshikawa, 量子コンピュータによる古典的運動論的方程式の量子数値計算：6次元無衝突プラズマのBoltzmann方程式の新手法, 日本地球惑星科学連合2023年大会, 2023.5.22, 口頭
+> - 樋口颯人, J. W. Pedersen, 吉川顕正, Self-Consistent Quantum Calculations of the 6D Boltzmann-Maxwell System in Collisionless Plasmas Using Quantum Computer, 第152回地球電磁気・地球惑星圏学会総会・講演会, 2023.9.25, 口頭
 
 
