@@ -106,5 +106,5 @@
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, 量子コンピュータによる古典運動論的方程式の量子数値計算：6次元無衝突プラズマのBoltzmann-Maxwell方程式の新計算手法, STEシミュレーション研究会・KDKシンポジウム合同研究会, 2023.3.8, 口頭
 > - Higuchi, H., J. W. Pedersen, A. Yoshikawa, 量子コンピュータによる古典的運動論的方程式の量子数値計算：6次元無衝突プラズマのBoltzmann方程式の新手法, 日本地球惑星科学連合2023年大会, 2023.5.22, 口頭
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, Self-Consistent Quantum Calculations of the 6D Boltzmann-Maxwell System in Collisionless Plasmas Using Quantum Computer, 第152回地球電磁気・地球惑星圏学会総会・講演会, 2023.9.25, 口頭
-
+> - 樋口颯人, J. W. Pedersen, 吉川顕正, Quantum Calculation of Classical Kinetic Equations: A Novel Approach for Numerical Analysis of 6D Boltzmann-Maxwell Equations in Collisionless Plasmas Using Quantum Computing, YITP場の理論の新しい計算方法2023 量子計算とテンソルネットワークに関するスクール, 2023.10.13, 口頭
 
