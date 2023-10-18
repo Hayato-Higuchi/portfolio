@@ -61,8 +61,8 @@
 ### *2019.10 ~*
 **MAGnetic Data Acquisition System(MAGDAS)プロジェクトのサポート**
 > - *研究室プロジェクト*
-> - 全球的地上磁場観測ネットワーク[MAGDAS](http://magdas2.serc.kyushu-u.ac.jp) の磁力計を設置、運用、保守、点検のサポート
-> - 観測データを用いて解析
+> - 全球的地磁気地上磁場観測ネットワーク[MAGDAS](http://magdas2.serc.kyushu-u.ac.jp) の磁力計を設置、運用、保守、点検のサポート
+> - 観測データのMatlab解析
 
 ## Awards and honors
 > - 2012年度先端科学技術体験合宿科学講座３優秀賞受賞
@@ -96,7 +96,7 @@
 ### Quantum Calculation of Classical Kinetic Equations: A Novel Approach for Numerical Analysis of 6D Boltzmann-Maxwell Equations in Collisionless Plasmas Using Quantum Computing
 > - Bibliographic data：H. Higuchi, J. W. Pedersen and A. Yoshikawa, 2023, Under Review.
 > - Abstract：A novel quantum algorithm for solving the Boltzmann-Maxwell equations of the 6D collisionless plasma is proposed. The equation describes the kinetic behavior of plasma particles in electromag- netic fields and is known for the classical first-principles equations in various domains, from space to laboratory plasmas. We have constructed a quantum algorithm for a future large-scale quantum computer to accelerate its costly computation. This algorithm consists mainly of two routines: the Boltzmann solver and the Maxwell solver. Quantum algorithms undertake these dual procedures, while classical algorithms facilitate their interplay. Each solver has a similar structure consisting of three steps: Encoding, Propagation, and Integration. We conducted a preliminary implementa- tion of the quantum algorithm and performed a parallel validation against a comparable classical approach. IBM Qiskit was used to implement all quantum circuits
-> - PDF: [paper.pdf](https://arxiv.org/pdf/2306.05967.pdf)
+> - PDF: [Paper.pdf](https://arxiv.org/pdf/2306.05967.pdf)
 
 ### 国際学会・シンポジウム等における発表(査読なし)
 > -	Higuchi, H, and A. Yoshikawa, Electron acceleration mechanism in "ionospheric polarized Poleward Boundary Intensification": A new validation with 3-dimensional fluid electron acceleration simulators, American Geophysics Union Fall Meeting 2021, 2021.12.13, ポスター
