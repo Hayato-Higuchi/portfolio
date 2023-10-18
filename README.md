@@ -20,7 +20,7 @@
 ## Qualifications
 `博士（理学）取得予定` `普通自動車第一種運転免許`
 
-## Research ExperienceJob Experience
+## Job Experience
 ### *2013.7 ~*
 **星の館(天文台)スタッフ**
 > - *ボランティア*
