@@ -100,7 +100,7 @@
 
 ### 国際学会・シンポジウム等における発表(査読なし)
 > -	Higuchi, H, and A. Yoshikawa, Electron acceleration mechanism in "ionospheric polarized Poleward Boundary Intensification": A new validation with 3-dimensional fluid electron acceleration simulators, American Geophysics Union Fall Meeting 2021, 2021.12.13, ポスター
-> - Higuchi, H. and J. W. Pedersen, A. Yoshikawa, Quantum numerical computation of the classical kinetic equation by quantum computer: new method for the Boltzmann equation in 6D collisionless plasma, American Geophysics Union Fall Meeting 2021, 2023.8.25, Oral
+> - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum numerical computation of the classical kinetic equation by quantum computer: new method for the Boltzmann equation in 6D collisionless plasma, Union Radio-Scientifique Internationale GASS 2023 SAPPORO, 2023.8.25, Oral
 ### 国内学会・シンポジウム等における発表(査読なし)
 > - 樋口颯人, 電離層分極型PBIにおける3次元運動論的電子加速シミュレーションと新加速モデルの構築に向けて, 宇宙地球惑星科学若手会夏の学校2020, 2020.9.3, 口頭
 > - Higuchi, H. and A. Yoshikawa, Exploring the Electron Acceleration Mechanism in the Poleward Boundary Intensification, 日本地球惑星科学連合2021年大会, 2021.６.6, 英語口頭
@@ -112,6 +112,7 @@
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, Development of Quantum Algorithm for Clarifying Auroral Electron Acceleration Mechanism by Collisional Boltzmann-Maxwell Equation, 第151回地球電磁気・地球惑星圏学会総会・講演会, 2022.11.5, 口頭
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, 量子コンピュータによる古典運動論的方程式の量子数値計算：6次元無衝突プラズマのBoltzmann-Maxwell方程式の新計算手法, STEシミュレーション研究会・KDKシンポジウム合同研究会, 2023.3.8, 口頭
 > - Higuchi, H., J. W. Pedersen, A. Yoshikawa, 量子コンピュータによる古典的運動論的方程式の量子数値計算：6次元無衝突プラズマのBoltzmann方程式の新手法, 日本地球惑星科学連合2023年大会, 2023.5.22, 口頭
+> - 樋口颯人, J. W. Pedersen, 吉川顕正, Quantum Calculations of Boltzmann-Maxwell's Coupled Systems by Velocity Moments, 宇宙地球惑星科学若手会夏の学校2023, 2023.9.4, 口頭
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, Self-Consistent Quantum Calculations of the 6D Boltzmann-Maxwell System in Collisionless Plasmas Using Quantum Computer, 第152回地球電磁気・地球惑星圏学会総会・講演会, 2023.9.25, 口頭
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, Quantum Calculation of Classical Kinetic Equations: A Novel Approach for Numerical Analysis of 6D Boltzmann-Maxwell Equations in Collisionless Plasmas Using Quantum Computing, YITP場の理論の新しい計算方法2023 量子計算とテンソルネットワークに関するスクール, 2023.10.13, 口頭
 
