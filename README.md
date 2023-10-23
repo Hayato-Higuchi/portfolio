@@ -45,6 +45,7 @@
 > - *修士課程研究*
 > - Juliaを用いた電磁プラズマ流体方程式と衝突性Hall MHDのハイブリッド数値計算モデル開発
 > - オーロラ粒子として十分な粒子加速を得た
+> - PDF:[Master Paper.pdf](https://arxiv.org/pdf/2306.05967.pdf)
 
 ### *2021.6 ~*
 **量子誤り耐性量子コンピュータを用いた太陽-地球間の大規模宇宙プラズマ環境予測シミュレータの開発**
@@ -98,7 +99,7 @@
 ### Quantum Calculation of Classical Kinetic Equations: A Novel Approach for Numerical Analysis of 6D Boltzmann-Maxwell Equations in Collisionless Plasmas Using Quantum Computing
 > - Bibliographic data：H. Higuchi, J. W. Pedersen and A. Yoshikawa, 2023, Under Review.
 > - Abstract：A novel quantum algorithm for solving the Boltzmann-Maxwell equations of the 6D collisionless plasma is proposed. The equation describes the kinetic behavior of plasma particles in electromag- netic fields and is known for the classical first-principles equations in various domains, from space to laboratory plasmas. We have constructed a quantum algorithm for a future large-scale quantum computer to accelerate its costly computation. This algorithm consists mainly of two routines: the Boltzmann solver and the Maxwell solver. Quantum algorithms undertake these dual procedures, while classical algorithms facilitate their interplay. Each solver has a similar structure consisting of three steps: Encoding, Propagation, and Integration. We conducted a preliminary implementa- tion of the quantum algorithm and performed a parallel validation against a comparable classical approach. IBM Qiskit was used to implement all quantum circuits
-> - PDF: [Paper.pdf](https://arxiv.org/pdf/2306.05967.pdf)
+> - PDF: [Submitted Paper.pdf](https://arxiv.org/pdf/2306.05967.pdf)
 
 ### 国際学会・シンポジウム等における発表(査読なし)
 > -	Higuchi, H, and A. Yoshikawa, Electron acceleration mechanism in "ionospheric polarized Poleward Boundary Intensification": A new validation with 3-dimensional fluid electron acceleration simulators, American Geophysics Union Fall Meeting 2021, 2021.12.13, ポスター
