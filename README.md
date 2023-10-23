@@ -45,7 +45,7 @@
 > - *修士課程研究*
 > - Juliaを用いた電磁プラズマ流体方程式と衝突性Hall MHDのハイブリッド数値計算モデル開発
 > - オーロラ粒子として十分な粒子加速を得た
-> - PDF:[Master Paper.pdf]([https://arxiv.org/pdf/2306.05967](https://github.com/Hayato-Higuchi/portfolio/blob/main/%E4%BF%AE%E5%A3%AB%E8%AB%96%E6%96%872022_%E6%A8%8B%E5%8F%A3%E9%A2%AF%E4%BA%BA.pdf)
+> - PDF:[Master Paper.pdf](https://github.com/Hayato-Higuchi/portfolio/blob/main/%E4%BF%AE%E5%A3%AB%E8%AB%96%E6%96%872022_%E6%A8%8B%E5%8F%A3%E9%A2%AF%E4%BA%BA.pdf)
 
 ### *2021.6 ~*
 **量子誤り耐性量子コンピュータを用いた太陽-地球間の大規模宇宙プラズマ環境予測シミュレータの開発**
