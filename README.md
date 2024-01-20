@@ -69,6 +69,7 @@
 > - 2012年度先端科学技術体験合宿科学講座３優秀賞受賞
 > - 2015年度九州大学理学部主催エクセレントスチューデントインサイエンス(物理学)にて最優秀賞受賞
 > - 2019年度全国大学かるた大会団体戦において89校中全国4位を獲得(九州大学代表メンバー主将)
+> - 2023年度量子ネイティブシンポジウムにて学生優秀発表賞受賞
 
 ## Grants
 > -	2021年度九州大学院研究支援奨学金に採択
@@ -121,3 +122,4 @@
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, Self-Consistent Quantum Calculations of the 6D Boltzmann-Maxwell System in Collisionless Plasmas Using Quantum Computer, 第152回地球電磁気・地球惑星圏学会総会・講演会, 2023.9.25, 口頭
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, Quantum Calculation of Classical Kinetic Equations: A Novel Approach for Numerical Analysis of 6D Boltzmann-Maxwell Equations in Collisionless Plasmas Using Quantum Computing, YITP場の理論の新しい計算方法2023 量子計算とテンソルネットワークに関するスクール, 2023.10.13, 口頭
 > - 樋口颯人, J. W. Pedersen, 黄海仲星, 吉川耕司, 吉川顕正, 量子特異値変換を使ったVlasov-Maxwell系の量子計算アルゴリズムの再構築, STEシミュレーション研究会・KDKシンポジウム合同研究会, 2023.12.21, 口頭
+> - 樋口颯人, J. W. Pedersen, 吉川顕正, 宇宙プラズマシミュレーションのための量子アルゴリズム, 量子ネイティブシンポジウム, 2024.1.16, ポスター
