@@ -109,12 +109,12 @@
 > - Abstract：A novel quantum algorithm for solving the Boltzmann-Maxwell equations of the 6D collisionless plasma is proposed. The equation describes the kinetic behavior of plasma particles in electromag- netic fields and is known for the classical first-principles equations in various domains, from space to laboratory plasmas. We have constructed a quantum algorithm for a future large-scale quantum computer to accelerate its costly computation. This algorithm consists mainly of two routines: the Boltzmann solver and the Maxwell solver. Quantum algorithms undertake these dual procedures, while classical algorithms facilitate their interplay. Each solver has a similar structure consisting of three steps: Encoding, Propagation, and Integration. We conducted a preliminary implementa- tion of the quantum algorithm and performed a parallel validation against a comparable classical approach. IBM Qiskit was used to implement all quantum circuits
 > - PDF: [Submitted Paper.pdf](https://arxiv.org/pdf/2306.05967.pdf)
 
-### 国際学会・シンポジウム等における発表(査読なし)
+### 国際学会・シンポジウム等における発表
 > -	Higuchi, H, and A. Yoshikawa, Electron acceleration mechanism in "ionospheric polarized Poleward Boundary Intensification": A new validation with 3-dimensional fluid electron acceleration simulators, American Geophysics Union Fall Meeting 2021, 2021.12.13, Poster
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum numerical computation of the classical kinetic equation by quantum computer: new method for the Boltzmann equation in 6D collisionless plasma, Union Radio-Scientifique Internationale GASS 2023 SAPPORO, 2023.8.25, Oral
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, A Novel Application of Nonlinear PDEs Quantum Algorithms: Toward Large-Scale Space Plasma Simulations, 10th International Workshop of Quantum Simulation and Quantum Walks, 2023.11.10, Poster
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Calculation for Kinetic Multi-scale Auroral Mechanism: A Novel Approach to Numerical Analysis from Kinetic Alfvén Wave Scales to MHD Scales, American Geophysics Union Fall Meeting 2023, 2023.12.11, Oral
-### 国内学会・シンポジウム等における発表(査読なし)
+### 国内学会・シンポジウム等における発表
 > - 樋口颯人, 電離層分極型PBIにおける3次元運動論的電子加速シミュレーションと新加速モデルの構築に向けて, 宇宙地球惑星科学若手会夏の学校2020, 2020.9.3, 口頭
 > - Higuchi, H. and A. Yoshikawa, Exploring the Electron Acceleration Mechanism in the Poleward Boundary Intensification, 日本地球惑星科学連合2021年大会, 2021.６.6, 英語口頭
 > - 樋口颯人, Electron acceleration mechanism in ionospheric polarized PBI: A new solution developedfrom 3D fluid electron acceleration simulatiors,宇宙地球惑星科学若手会夏の学校2021, 2021.9.9,口頭
