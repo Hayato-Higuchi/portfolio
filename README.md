@@ -61,7 +61,7 @@
 > - 深宇宙探査機の高解像度観測データをシミュレーションインプットにマッピング、平滑化
 
 ### *2024.4 ~ 7* 
-**オーストリア科学アカデミー宇宙研究所にて運動論的プラズマシミュレーションの研究滞在予定**
+**オーストリア科学アカデミー宇宙研究所にて運動論的プラズマシミュレーション・惑星探査の研究滞在**
 
 ### *2024.10 ~ 12* 
 **カルフォリニア大学バークレー校宇宙科学研究所にて太陽プラズマシミュレーションの研究滞在予定**
@@ -114,6 +114,7 @@
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum numerical computation of the classical kinetic equation by quantum computer: new method for the Boltzmann equation in 6D collisionless plasma, Union Radio-Scientifique Internationale GASS 2023 SAPPORO, 2023.8.25, Oral
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, A Novel Application of Nonlinear PDEs Quantum Algorithms: Toward Large-Scale Space Plasma Simulations, 10th International Workshop of Quantum Simulation and Quantum Walks, 2023.11.10, Poster
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Calculation for Kinetic Multi-scale Auroral Mechanism: A Novel Approach to Numerical Analysis from Kinetic Alfvén Wave Scales to MHD Scales, American Geophysical Union Fall Meeting 2023, 2023.12.11, Oral
+> - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Computing for Future Super Large-Scale Plasma Simulations: A Novel Approach for Simulating the Vlasov-Maxwell System, European Geosciences Union 2024, 2024.4.15, Oral
 ### 国内学会・シンポジウム等における発表
 > - 樋口颯人, 電離層分極型PBIにおける3次元運動論的電子加速シミュレーションと新加速モデルの構築に向けて, 宇宙地球惑星科学若手会夏の学校2020, 2020.9.3, 口頭
 > - Higuchi, H. and A. Yoshikawa, Exploring the Electron Acceleration Mechanism in the Poleward Boundary Intensification, 日本地球惑星科学連合2021年大会, 2021.６.6, 英語口頭
