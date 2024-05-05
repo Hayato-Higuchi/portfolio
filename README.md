@@ -111,7 +111,7 @@
 
 ### 国際学会・シンポジウム等における発表
 > -	Higuchi, H, and A. Yoshikawa, Electron acceleration mechanism in "ionospheric polarized Poleward Boundary Intensification": A new validation with 3-dimensional fluid electron acceleration simulators, American Geophysical Union Fall Meeting 2021, 2021.12.13, Poster
-> - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum numerical computation of the classical kinetic equation by quantum computer: new method for the Boltzmann equation in 6D collisionless plasma, Union Radio-Scientifique Internationale GASS 2023 SAPPORO, 2023.8.25, Oral
+> - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum numerical computation of the classical kinetic equation by quantum computer: new method for the Boltzmann equation in 6D collisionless plasma, the 35th URSI General Assembly and Scientific Symposium 2023 SAPPORO, 2023.8.25, Oral
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, A Novel Application of Nonlinear PDEs Quantum Algorithms: Toward Large-Scale Space Plasma Simulations, 10th International Workshop of Quantum Simulation and Quantum Walks, 2023.11.10, Poster
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Calculation for Kinetic Multi-scale Auroral Mechanism: A Novel Approach to Numerical Analysis from Kinetic Alfvén Wave Scales to MHD Scales, American Geophysical Union Fall Meeting 2023, 2023.12.11, Oral
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Computing for Future Super Large-Scale Plasma Simulations: A Novel Approach for Simulating the Vlasov-Maxwell System, European Geosciences Union 2024, 2024.4.15, Oral
