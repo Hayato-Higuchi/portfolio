@@ -78,6 +78,7 @@
 > - 2019年度全国大学かるた大会団体戦において89校中全国4位を獲得(九州大学代表メンバー主将)
 > - 2023年度量子ネイティブシンポジウムにて学生優秀発表賞受賞
 > - (Invited) Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Calculation for Kinetic Multi-scale Auroral Mechanism: A Novel Approach to Numerical Analysis from Kinetic Alfvén Wave Scales to MHD Scales, American Geophysical Union Fall Meeting 2023, 2023.12.11, Oral
+> - (Invited) Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Quantum Computing for Space Plasma Simulations, 1st International Workshop on Quantum Cryogenic and Superconductive Computing (QUEST2024), 2024.9.10, Oral
 
 ## Grants
 > -	2021年度九州大学院研究支援奨学金に採択
@@ -121,6 +122,7 @@
 > - (Invited) Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Calculation for Kinetic Multi-scale Auroral Mechanism: A Novel Approach to Numerical Analysis from Kinetic Alfvén Wave Scales to MHD Scales, American Geophysical Union Fall Meeting 2023, 2023.12.11, Oral
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Computing for Future Super Large-Scale Plasma Simulations: A Novel Approach for Simulating the Vlasov-Maxwell System, European Geosciences Union 2024, 2024.4.15, Oral
 > - Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Development of a Quantum-Classical Hybrid Solver for Nonlinear Vlasov-Maxwell Equations for Space Plasma Simulations, Conference on Computational Physics (CCP2024), 2024.7.8, Oral
+> - (Invited) Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Quantum Computing for Space Plasma Simulations, 1st International Workshop on Quantum Cryogenic and Superconductive Computing (QUEST2024), 2024.9.10, Oral
 ### 国内学会・シンポジウム等における発表
 > - 樋口颯人, 電離層分極型PBIにおける3次元運動論的電子加速シミュレーションと新加速モデルの構築に向けて, 宇宙地球惑星科学若手会夏の学校2020, 2020.9.3, 口頭
 > - Higuchi, H. and A. Yoshikawa, Exploring the Electron Acceleration Mechanism in the Poleward Boundary Intensification, 日本地球惑星科学連合2021年大会, 2021.６.6, 英語口頭
