@@ -77,6 +77,7 @@
 > - 2015年度九州大学理学部主催エクセレントスチューデントインサイエンス(物理学)にて最優秀賞受賞
 > - 2019年度全国大学かるた大会団体戦において89校中全国4位を獲得(九州大学代表メンバー主将)
 > - 2023年度量子ネイティブシンポジウムにて学生優秀発表賞受賞
+> - (Invited) Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Calculation for Kinetic Multi-scale Auroral Mechanism: A Novel Approach to Numerical Analysis from Kinetic Alfvén Wave Scales to MHD Scales, American Geophysical Union Fall Meeting 2023, 2023.12.11, Oral
 
 ## Grants
 > -	2021年度九州大学院研究支援奨学金に採択
