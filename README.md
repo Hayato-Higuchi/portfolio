@@ -137,3 +137,5 @@
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, Quantum Calculation of Classical Kinetic Equations: A Novel Approach for Numerical Analysis of 6D Boltzmann-Maxwell Equations in Collisionless Plasmas Using Quantum Computing, YITP場の理論の新しい計算方法2023 量子計算とテンソルネットワークに関するスクール, 2023.10.13, 口頭
 > - 樋口颯人, J. W. Pedersen, 黄海仲星, 吉川耕司, 吉川顕正, 量子特異値変換を使ったVlasov-Maxwell系の量子計算アルゴリズムの再構築, STEシミュレーション研究会・KDKシンポジウム合同研究会, 2023.12.21, 口頭
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, 宇宙プラズマシミュレーションのための量子アルゴリズム, 量子ネイティブシンポジウム, 2024.1.16, ポスター
+> - Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Vlasov-Maxwell方程式の量子計算, 日本地球惑星科学連合2024年大会, 2024.5.29, 口頭
+> - 樋口颯人, J. W. Pedersen, 豊泉喜一郎, 吉川耕司, 黄海仲星, 吉川顕正, Quantum Computing for Space Plasma Physics, 宇宙地球惑星科学若手会夏の学校2024, 2024.9.6, 口頭
