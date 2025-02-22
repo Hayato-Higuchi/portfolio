@@ -1,7 +1,7 @@
 <img id="thumbnail" src="./resources/IMG_2032_Original.JPG" width="256px" />
 
 # 樋口 颯人（Higuchi Hayato）
-九州大学大学院理学府地球惑星科学専攻博士課程の大学院生です。オーロラシミュレーションや量子誤り耐性量子コンピュータ向けの宇宙天気シミュレーションのアプリケーション開発に取り組んでいます。趣味は競技かるたとダイエットです。
+九州大学大学院理学府地球惑星科学専攻博士課程の大学院生です。オーロラシミュレーションや量子誤り耐性量子コンピュータ向けのプラズマシミュレーションの量子アルゴリズム開発に取り組んでいます。趣味は競技かるたと筋トレです。
 
 ***
 
@@ -9,13 +9,13 @@
 `Python` `Julia` `Matlab` `C` `FORTRAN` `HTML`
 
 ## Frameworks / Libraries
-`Qiskit`
+`Qiskit``Qulacs`
 
 ## Environments
 `Visual Studio Code` `Emacs`
 
 ## Other Skills
-`美味しいお店探し` `競技かるたA級4段`
+`美味しいお店探し` `競技かるたA級5段`
 
 ## Qualifications
 `博士（理学）取得予定` `普通自動車第一種運転免許`
@@ -66,7 +66,9 @@
 > - 宇宙機その場観測のreconstraction問題の量子コンピューティング応用を議論
 
 ### *2024.10 ~ 12* 
-**カルフォリニア大学バークレー校宇宙科学研究所にて太陽プラズマシミュレーションの研究滞在予定**
+**カルフォリニア大学バークレー校宇宙科学研究所にて太陽プラズマシミュレーションの研究滞在**
+> - 太陽探査プロジェクトのX線観測手法やPICシミュレーション研究の調査、ディスカッション
+> - 太陽探査の量子コンピューティング応用を議論
 
 ### *2019.10 ~*
 **MAGnetic Data Acquisition System(MAGDAS)プロジェクトのサポート**
@@ -125,6 +127,7 @@
 > - Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Computing for Future Super Large-Scale Plasma Simulations: A Novel Approach for Simulating the Vlasov-Maxwell System, European Geosciences Union 2024, 2024.4.15, Oral
 > - Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Development of a Quantum-Classical Hybrid Solver for Nonlinear Vlasov-Maxwell Equations for Space Plasma Simulations, Conference on Computational Physics (CCP2024), 2024.7.8, Oral
 > - (Invited) Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Quantum Computing for Space Plasma Simulations, 1st International Workshop on Quantum Cryogenic and Superconductive Computing (QUEST2024), 2024.9.10, Oral
+> - Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Quantum-Classical Hybrid Numerical Simulation for Solving the Vlasov-Maxwell Equations: Numerical Evaluation of Hamiltonian Simulations, American Geophysical Union Fall Meeting 2024, 2024.12.11, Poster
 ### 国内学会・シンポジウム等における発表
 > - 樋口颯人, 電離層分極型PBIにおける3次元運動論的電子加速シミュレーションと新加速モデルの構築に向けて, 宇宙地球惑星科学若手会夏の学校2020, 2020.9.3, 口頭
 > - Higuchi, H. and A. Yoshikawa, Exploring the Electron Acceleration Mechanism in the Poleward Boundary Intensification, 日本地球惑星科学連合2021年大会, 2021.６.6, 英語口頭
@@ -143,3 +146,4 @@
 > - 樋口颯人, J. W. Pedersen, 吉川顕正, 宇宙プラズマシミュレーションのための量子アルゴリズム, 量子ネイティブシンポジウム, 2024.1.16, ポスター
 > - Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Vlasov-Maxwell方程式の量子計算, 日本地球惑星科学連合2024年大会, 2024.5.29, 口頭
 > - 樋口颯人, J. W. Pedersen, 豊泉喜一郎, 吉川耕司, 黄海仲星, 吉川顕正, Quantum Computing for Space Plasma Physics, 宇宙地球惑星科学若手会夏の学校2024, 2024.9.6, 口頭
+> - 樋口颯人, J. W. Pedersen, 豊泉喜一郎, 吉川耕司, 黄海仲星, 吉川顕正, 宇宙プラズマシミュレーションの量子コンピューティング：計算複雑性の改善と陽解クーラン条件の大幅な緩和, STEシミュレーション研究会, 2024.12.24, 口頭
