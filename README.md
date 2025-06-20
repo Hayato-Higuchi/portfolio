@@ -83,6 +83,8 @@
 > - 2023年度量子ネイティブシンポジウムにて学生優秀発表賞受賞
 > - (Invited) Higuchi, H, J. W. Pedersen and A. Yoshikawa, Quantum Calculation for Kinetic Multi-scale Auroral Mechanism: A Novel Approach to Numerical Analysis from Kinetic Alfvén Wave Scales to MHD Scales, American Geophysical Union Fall Meeting 2023, 2023.12.11, Oral
 > - (Invited) Higuchi, H, J. W. Pedersen, K. Toyoizumi, K. Yoshikawa, C. Kiumi, A. Yoshikawa, Quantum Computing for Space Plasma Simulations, 1st International Workshop on Quantum Cryogenic and Superconductive Computing (QUEST2024), 2024.9.10, Oral
+> - (Invited) Higuchi, H, Y. Ito, K. Sakamoto, K. Fujii, J. W. Pedersen, A. Yoshikawa, A Quantum Algorithm for Nonlinear Electromagnetic Fluid Dynamics via Koopman-von Neumann Linearization: 2D Numerical Validation with Qulacs, 51th European Physical Society Quantum Computing for Plasma Physics Satellite Meeting, 2025.07.12, Oral
+> - (Invited) 樋口颯人, 伊藤優輝, 坂本一樹, 藤井啓祐, 吉川顕正, Koopman-von Neumann線形化した非線形電磁流体力学の量子アルゴリズム, 第２回Quantum CAE研究会, 2025.05.08, 口頭
 
 ## Grants
 > -	2021年度九州大学院研究支援奨学金に採択
